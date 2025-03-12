@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+![image url](https://github.com/D-ote/CoffeeSales/blob/main/coffeesales.png)
+
 ### Overview
 This repository contains an Excel-based dashboard designed to analyze and visualize coffee sales data. The dashboard provides insights into various sales metrics, helping stakeholders make informed decisions based on the data.
 
